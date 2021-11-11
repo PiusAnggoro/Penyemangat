@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Penyemangat</string>
+    <string name="affirmation1">Saya kuat.</string>
+    <string name="affirmation2">Saya percaya diri.</string>
+    <string name="affirmation3">Setiap hari adalah kesempatan baru untuk tumbuh dan menjadi versi diri saya yang lebih baik.</string>
+    <string name="affirmation4">Setiap tantangan dalam hidup saya adalah kesempatan untuk belajar.</string>
+    <string name="affirmation5">Saya sangat bersyukur.</string>
+    <string name="affirmation6">Hal-hal baik selalu datang ke dalam hidup saya.</string>
+    <string name="affirmation7">Peluang baru menanti saya di setiap kesempatan.</string>
+    <string name="affirmation8">Saya memiliki keberanian untuk mengikuti kata hati saya.</string>
+    <string name="affirmation9">Segalanya akan terungkap pada waktu yang tepat.</string>
+    <string name="affirmation10">Saya akan hadir di semua momen yang dibawa hari ini.</string>
+</resources>
